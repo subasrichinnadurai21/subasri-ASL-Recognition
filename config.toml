@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#ff4b4b"           # buttons, slider, link highlight
+backgroundColor = "#0f0b13"        # main page BG (Streamlit content area)
+secondaryBackgroundColor = "#1a1126"  # cards / sidebar BG
+textColor = "#ffffff"              # text color
+font = "sans serif"
+
+
